@@ -5,6 +5,7 @@ import App from './App.vue'
 
 import PrimeVue from 'primevue/config'
 import Aura from '@primevue/themes/aura'
+import router from './router/index.js'
 
 
 const app = createApp(App)
